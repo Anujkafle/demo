@@ -1,4 +1,10 @@
-/* body */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #FDFDFD;
+    font-family: 'Merriweather', sans-serif;
+    box-sizing: border-box;
+}
 
 .first-look {
     height: 80vh;
